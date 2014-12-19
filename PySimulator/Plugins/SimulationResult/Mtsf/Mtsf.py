@@ -29,7 +29,7 @@ import collections
 from operator import itemgetter
 import time
 import os
-from Plugins.SimulationResult import IntegrationResults
+from PySimulator.Plugins.SimulationResult import IntegrationResults
 
 
 import pyMtsf
