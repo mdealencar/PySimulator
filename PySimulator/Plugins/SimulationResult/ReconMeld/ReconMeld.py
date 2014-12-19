@@ -26,7 +26,7 @@ import os
 
 import numpy
 
-from Plugins.SimulationResult import IntegrationResults
+from PySimulator.Plugins.SimulationResult import IntegrationResults
 from recon.meld import MeldReader
 
 
