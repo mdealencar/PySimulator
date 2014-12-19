@@ -40,7 +40,7 @@ import os
 from operator import itemgetter
 
 import pyMtsf
-from Plugins.Simulator.FMUSimulator.FMIDescription import FMIDescription
+from PySimulator.Plugins.Simulator.FMUSimulator.FMIDescription import FMIDescription
 
 
 
