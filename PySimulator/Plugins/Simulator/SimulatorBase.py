@@ -37,7 +37,7 @@ of a loaded model and provides functions to simulate it, write and read results,
 import copy
 import os
 import string
-import Plugins.SimulationResult.IntegrationResults as IntegrationResults
+from PySimulator.Plugins.SimulationResult import IntegrationResults
 
 
 '''
